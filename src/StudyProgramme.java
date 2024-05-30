@@ -1,4 +1,5 @@
 public  class StudyProgramme {
+    String First;
     private String direction;
     private String name;
     private int countOfSemesters;
